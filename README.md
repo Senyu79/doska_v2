@@ -23,3 +23,21 @@
    23  git push -u origin main
    24  git config credential.username "vlad"
    25  git push -u origin main
+
+    git init
+    2  git clone https://github.com/Senyu79/doska_v2.git
+    3  ls
+    4  cd doska_v2
+    5  npx create-strapi-app doska_v2 --quickstart
+    6  cd C:/Users/is/AppData/Roaming
+    7  mkdir npm
+    8  ..
+    9  ls
+   10  ..
+   11  cd doska_v2
+   12  cd ..
+   13  cd ..
+   14  ls
+   15  cd doska_v2
+   16  npx create-strapi-app doska_v2 --quickstart
+
